@@ -1,0 +1,14 @@
+Python
+C Language
+Golang
+Elixir
+PostgreSQL
+PHP
+TypeScript
+JavaScript
+React
+Vue
+SvelteKit
+SASS
+CSS
+HTML
